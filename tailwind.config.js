@@ -13,6 +13,7 @@ export default {
       },
       colors:{
         'shop':'#E58411',
+        'tab':'#F7F7F7',
       },
       fontSize:{
         '80':'80px',
