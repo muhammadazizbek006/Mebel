@@ -13,6 +13,9 @@ export default {
       },
       colors:{
         'shop':'#E58411',
+      },
+      fontSize:{
+        '80':'80px'
       }
     },
   },

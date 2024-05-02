@@ -9,7 +9,7 @@ import Footer from '../components/Footer'
 const MainLayout = () => {
   return (
     <>
-    <div className='bg-header-hero bg-no-repeat  bg-cover'>
+    <div className='bg-header-hero bg-no-repeat  bg-cover  h-screen'>
       <Header/>
       <Hero/>
     </div>
