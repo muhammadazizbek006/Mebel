@@ -5,7 +5,16 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "url('/img/hero-pattern.svg')",
+        'footer-texture': "url('/img/footer-texture.png')",
+        'header-hero': "url('/src/img/hh.png')"
+      },
+      colors:{
+        'shop':'#E58411',
+      }
+    },
   },
   plugins: [],
 }
