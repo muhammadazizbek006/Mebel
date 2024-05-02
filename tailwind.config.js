@@ -15,7 +15,8 @@ export default {
         'shop':'#E58411',
       },
       fontSize:{
-        '80':'80px'
+        '80':'80px',
+        '42':'42px',
       }
     },
   },

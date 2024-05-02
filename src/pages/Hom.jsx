@@ -1,8 +1,12 @@
 import React from 'react'
+import Hero from '../components/Hero'
+import WhyUs from '../components/WhyUs'
 
 const Hom = () => {
   return (
-    <div>Hom</div>
+    <>
+    <WhyUs/>
+    </>
   )
 }
 
