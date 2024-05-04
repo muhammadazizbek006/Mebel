@@ -14,6 +14,7 @@ export default {
       colors:{
         'shop':'#E58411',
         'tab':'#F7F7F7',
+        'brend':'#8D8D8D',
       },
       fontSize:{
         '80':'80px',
