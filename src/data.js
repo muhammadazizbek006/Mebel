@@ -17,39 +17,45 @@ export const whyUs = [
         sharx:`We provide many unique work space choices so that you can choose the workspace to your liking.`,
     }
 ];
+// tabs
+
+import chair1 from './chair1.jpg',
+import chair2 from './chair2.jpg',
+import chair3 from './chair3.jpg',
+import chair4 from './chair4.jpg',
 
 export const  tabs = [
     {
-      label: "HTML",
-      value: "html",
-      desc: `It really matters and then like it really doesn't matter.
-      What matters is the people who are sparked by it. And the people 
-      who are like offended by it, it doesn't matter.`,
+      id:1,
+      label:`Chair`
+      img:chair1,
+      title:`Sakarias Armchair`,
+      narxi:392,
+
     },
     {
-      label: "React",
-      value: "react",
-      desc: `Because it's about motivating the doers. Because I'm here
-      to follow my dreams and inspire other people to follow their dreams, too.`,
+      id:2,
+      label:`Chair`
+      img:chair2,
+      title:`Baltsar Chair`,
+      narxi:299,
+
     },
     {
-      label: "Vue",
-      value: "vue",
-      desc: `We're not always in the position that we want to be at.
-      We're constantly growing. We're constantly making mistakes. We're
-      constantly trying to express ourselves and actualize our dreams.`,
+      id:3,
+      label:`Chair`
+      img:chair3,
+      title:`Anjay Chair`,
+      narxi:519,
+
     },
     {
-      label: "Angular",
-      value: "angular",
-      desc: `Because it's about motivating the doers. Because I'm here
-      to follow my dreams and inspire other people to follow their dreams, too.`,
+      id:4,
+      label:`Chair`
+      img:chair4,
+      title:`Nyantuy Chair`,
+      narxi:921,
+
     },
-    {
-      label: "Svelte",
-      value: "svelte",
-      desc: `We're not always in the position that we want to be at.
-      We're constantly growing. We're constantly making mistakes. We're
-      constantly trying to express ourselves and actualize our dreams.`,
-    },
+
   ];
