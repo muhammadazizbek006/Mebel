@@ -1,13 +1,15 @@
 import React from 'react'
-import Hero from '../components/Hero'
+
 import WhyUs from '../components/WhyUs'
 import Product from '../components/Product'
+import Expriens from '../components/Expriens'
 
 const Hom = () => {
   return (
     <>
     <WhyUs/>
     <Product/>
+    <Expriens/>
     </>
   )
 }
