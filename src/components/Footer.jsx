@@ -13,16 +13,16 @@ const Footer = () => {
             </li>
             {/* 2 */}
             <li className='flex flex-col'>
-              <Link className='text-lg hover:text-shop mb-3'>Services</Link>
-              <Link className='text-lg hover:text-shop mb-3'>Email Marketing</Link>
-              <Link className='text-lg hover:text-shop mb-3'>Campaigns</Link>
-              <Link className='text-lg hover:text-shop mb-3'>Branding</Link>
+              <Link className='text-lg hover:text-shop mb-3 duration-300'>Services</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Email Marketing</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Campaigns</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Branding</Link>
             </li>
             <li className='flex flex-col'>
-              <Link className='text-lg hover:text-shop mb-3'>Furniture</Link>
-              <Link className='text-lg hover:text-shop mb-3'>Beds</Link>
-              <Link className='text-lg hover:text-shop mb-3'>Chair</Link>
-              <Link className='text-lg hover:text-shop mb-3'>All</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Furniture</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Beds</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>Chair</Link>
+              <Link className='text-lg hover:text-shop mb-3  duration-300'>All</Link>
             </li>
 
           </ul>
